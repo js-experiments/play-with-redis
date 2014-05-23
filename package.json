@@ -1,0 +1,10 @@
+{
+  "name": "play-with-redis",
+  "description" : "play-with-redis",
+  "version": "0.0.0",
+  "dependencies": {
+    "nohm": "0.9.5",
+    "Faker": "0.7.2",
+    "redis": "0.10"
+  }
+}
